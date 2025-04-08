@@ -1,6 +1,8 @@
 # QR-Code-Generator-
 📱 QR Code Generator (Android App) An Android application that allows users to generate custom QR codes instantly. Built using Java and XML in Android Studio, the app supports 
   encoding text, URLs, and more into QR format.
+
+  
 🔹 Integrated with the ZXing library for fast and reliable QR generation.
 🔹 Clean UI and two-screen navigation: Home and Generate QR page.
 🔹 Ideal for sharing links, contact details, Wi-Fi credentials, and business info via QR.
